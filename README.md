@@ -27,7 +27,7 @@
 ## 👋 About Me
 
 🧑‍💻 I'm **Yash Patil**, Full Stack Developer.<br/>
-💼 Based in **Navi Mumbai **.<br/>
+💼 Based in **Navi Mumbai**.<br/>
 🌱 Currently learning: Kubernetes<br/>
 💬 Ask me about: **Building scalable web applications, performance optimization strategies, and microservices architecture.**<br/>
 
@@ -36,7 +36,7 @@
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilll.yash5@gmail.com) [! [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashpatilll/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashvalid)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilll.yash5@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashpatilll/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashvalid)
 
 
 
