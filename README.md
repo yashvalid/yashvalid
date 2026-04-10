@@ -1,5 +1,5 @@
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Not specified&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&theme=dark"/>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=yashvalid&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&theme=dark"/>
   <p align="right">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C%2B%2B-333?style=flat-square&logo=c++&logoColor=white"/>
@@ -30,22 +30,14 @@
 💼 Based in **Navi Mumbai **, working at **Showstoper Technologies & Media Pvt. Ltd.**.<br/>
 🌱 Currently learning: **Not specified**<br/>
 💬 Ask me about: **Building scalable web applications, performance optimization strategies, and microservices architecture.**<br/>
-⚡ Fun fact: Not specified
+
 
 ---
 
 ## 📫 Contact
 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](Not specified) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilll.yash5@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Not specified) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Not specified) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Not specified)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilll.yash5@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Not specified) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/Not specified](https://www.linkedin.com/in/yashpatilll/)) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashvalid)
 
----
 
-## ✍️ Blog & Content
 
----
-
-## 💖 Support My Work
-
----
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Not specified&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashvalid&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
