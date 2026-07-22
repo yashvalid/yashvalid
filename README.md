@@ -22,17 +22,7 @@
 
 <br clear="both"/>
 
----
-
-## 👋 About Me
-
-🧑‍💻 I'm **Yash Patil**, Full Stack Developer.<br/>
-💼 Based in **Navi Mumbai**.<br/>
-🌱 Currently learning: Kubernetes<br/>
-💬 Ask me about: **Building scalable web applications, performance optimization strategies, and microservices architecture.**<br/>
-
-
----
+Full-Stack Developer with production experience designing and shipping scalable, distributed systems and modern web applications. Experienced in building event-driven backends, RESTful APIs, real-time applications, and performant frontend interfaces using technologies such as Node.js, React, Redis, Kafka, and modern databases. Strong understanding of system design, microservices architecture, distributed systems, caching, database design, and software performance optimization. Experienced in owning systems end-to-end, from schema design and API contracts to real-time communication, security, observability, and deployment. Focused on building reliable, maintainable, and high-performance software that solves real-world problems.
 
 ## 📫 Contact
 
