@@ -30,4 +30,4 @@ Full-Stack Developer with production experience designing and shipping scalable,
 
 
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashvalid&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats) 
+ <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashvalid&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
