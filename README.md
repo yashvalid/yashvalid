@@ -24,7 +24,7 @@
 
 Full-Stack Developer with production experience designing and shipping scalable, distributed systems and modern web applications. Experienced in building event-driven backends, RESTful APIs, real-time applications, and performant frontend interfaces using technologies such as Node.js, React, Redis, Kafka, and modern databases. Strong understanding of system design, microservices architecture, distributed systems, caching, database design, and software performance optimization. Experienced in owning systems end-to-end, from schema design and API contracts to real-time communication, security, observability, and deployment. Focused on building reliable, maintainable, and high-performance software that solves real-world problems.
 
-## 📫 Contact
+
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilll.yash5@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashpatilll/) 
 [![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=)](https://leetcode.com/u/yashpatilll/)
