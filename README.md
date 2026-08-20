@@ -27,7 +27,7 @@ Full-Stack Developer with production experience designing and shipping scalable,
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilll.yash5@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashpatilll/) 
-
+[![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=)](https://leetcode.com/u/yashpatilll/)
 
 
  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashvalid&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
