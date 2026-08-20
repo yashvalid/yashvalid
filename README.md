@@ -1,3 +1,4 @@
+<!--
 <p>
   
   <p align="right">
@@ -18,7 +19,7 @@
     <img src="https://img.shields.io/badge/-AWS%20-333?style=flat-square&logo=aws&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   </p>
-</p>
+</p> -->
 
 <br clear="both"/>
 
