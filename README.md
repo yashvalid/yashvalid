@@ -23,7 +23,7 @@
 
 <br clear="both"/>
 
-Full-Stack Developer with production experience designing and shipping scalable, distributed systems and modern web applications. Experienced in building event-driven backends, RESTful APIs, real-time applications, and performant frontend interfaces using technologies such as Node.js, React, Redis, Kafka, and modern databases. Strong understanding of system design, microservices architecture, distributed systems, caching, database design, and software performance optimization. Experienced in owning systems end-to-end, from schema design and API contracts to real-time communication, security, observability, and deployment. Focused on building reliable, maintainable, and high-performance software that solves real-world problems.
+I’m a Full-Stack Developer who loves turning ideas into reliable, scalable software. I’ve built event driven backends, REST APIs, real-time features, and modern frontends using tools like Node.js, React, and different databases. I enjoy working across the stack — designing schemas, writing clean APIs, making sure systems are secure and observable, and deploying them smoothly. What drives me is building software that’s not just high‑performance, but also easy to maintain and genuinely useful for solving real problems.
 
 
 
