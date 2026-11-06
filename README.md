@@ -22,7 +22,9 @@
 </p> -->
 
 <br clear="both"/>
-<img src="koi/koi.gif" width="500" alt="My koi">
+   <p align="center">                                                                                                                           
+      <img src="./koi.svg" alt="Living Koi Pond" width="850" />                                                                                  
+    </p> 
 I’m a Full-Stack Developer who loves turning ideas into reliable, scalable software. I’ve built event driven backends, REST APIs, real-time features, and modern frontends using tools like Node.js, React, and different databases. I enjoy working across the stack — designing schemas, writing clean APIs, making sure systems are secure and observable, and deploying them smoothly. What drives me is building software that’s not just high‑performance, but also easy to maintain and genuinely useful for solving real problems.
 
 
